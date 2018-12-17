@@ -11,13 +11,14 @@ public class KonversiMataUang {
 		        float rupiah, dolar;
 		        System.out.print("Masukan Rupiah = ");
 				rupiah = masukan.nextFloat();
-		        dolar = (float) (rupiah*0.0001);
+		        dolar = (float) (rupiah*0.00014);
 		        System.out.println();
 		        System.out.println("Hasil Kurs = ");
 		        System.out.println("Dolar = " + dolar);
 		    
 		        //commit ke github
 		        //dikumpulkan jam 17.00
+		        
 
 	}
 
