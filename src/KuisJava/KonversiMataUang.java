@@ -16,6 +16,7 @@ public class KonversiMataUang {
 		        System.out.println("Hasil Kurs = ");
 		        System.out.println("Dolar = " + dolar);
 		     
+		        //tambah
 
 	}
 
