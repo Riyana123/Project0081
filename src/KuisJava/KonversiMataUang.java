@@ -9,7 +9,7 @@ public class KonversiMataUang {
 		
 				Scanner masukan = new Scanner(System.in);
 		        float rupiah, dolar;
-		        System.out.print("Masukkan Rupiah = ");
+		        System.out.print("Masukan Rupiah = ");
 				rupiah = masukan.nextFloat();
 		        dolar = (float) (rupiah*0.0001);
 		        System.out.println();
