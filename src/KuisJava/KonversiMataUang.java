@@ -16,9 +16,6 @@ public class KonversiMataUang {
 		        System.out.println("Hasil Kurs = ");
 		        System.out.println("Dolar = " + dolar);
 		    
-		        //commit ke github
-		        //dikumpulkan jam 17.00
-		        //commit
 		        
 
 	}
