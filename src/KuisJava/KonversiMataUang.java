@@ -15,7 +15,7 @@ public class KonversiMataUang {
 		        System.out.println();
 		        System.out.println("Hasil Kurs = ");
 		        System.out.println("Dolar = " + dolar);
-		     
+		    //kuis java
 		        
 		        
 
